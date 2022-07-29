@@ -1,0 +1,10 @@
+---
+title: 정규분포
+description: 만일
+author: "Jonghyun"
+categories : [regression]
+draft : false
+---
+
+## TL; DR
+- 샘플
